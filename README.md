@@ -7,4 +7,4 @@ We chose Public health Track (out of Public Heaalth, Social Justice and Economic
 
 We aim to Visualise the Global Covid cases and compare them with monthly (From Jan 2020- July 2021) Covid cases acroos the globe along with CardioVascular Diseases and Diabetes Patients to uncover relationship among them. We also Visualize how various countries have dealt with the pandemic during these months comparing the vaccinated population and stringency measures accroos major countries.
 
-We took part in a team of 2 [me](https://github.com/RaghuMadhavTiwari) and [Archita Negi](https://github.com/ArchitaN10) and used Tableau Public (https://public.tableau.com/en-us/s/).
+We took part in a team of 2 [me](https://github.com/RaghuMadhavTiwari) and [Archita Negi](https://github.com/ArchitaN10) and used [Tableau Public ](https://public.tableau.com/en-us/s/).
