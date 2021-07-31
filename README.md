@@ -1,4 +1,8 @@
 # VIZATHON 2021
+
+![VISUALIZING GLOBAL COVID CASES AND GOVERNMENT MEASURES](https://user-images.githubusercontent.com/65697330/127728641-99516d8e-1edd-4036-b83b-352c3ab9ef16.png)
+
+
 This repo contains the data used for Vizathon 2021, a competition organised by [Corono Virus Visualization team](https://understandcovid.org/). 
 
 We used Public data provided [here](https://github.com/owid/covid-19-data). 
